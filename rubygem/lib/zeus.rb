@@ -1,4 +1,5 @@
 # encoding: utf-8
+gem 'json', '=1.7.7'
 require 'socket'
 require 'json'
 require 'pty'
